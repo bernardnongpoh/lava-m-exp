@@ -1,0 +1,56 @@
+lib/hash-pjw.o: ../coreutils-8.24-lava-safe/lib/hash-pjw.c \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h \
+ lib/config.h ../coreutils-8.24-lava-safe/lib/hash-pjw.h lib/stddef.h \
+ /nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stddef.h \
+ /nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include-fixed/limits.h \
+ /nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include-fixed/syslimits.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/limits.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/features.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/sys/cdefs.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wordsize.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs-32.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/posix1_lim.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/local_lim.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/linux/limits.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/posix2_lim.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/xopen_lim.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/stdio_lim.h
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h:
+
+lib/config.h:
+
+../coreutils-8.24-lava-safe/lib/hash-pjw.h:
+
+lib/stddef.h:
+
+/nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stddef.h:
+
+/nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include-fixed/limits.h:
+
+/nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include-fixed/syslimits.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/limits.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/features.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/sys/cdefs.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wordsize.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs-32.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/posix1_lim.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/local_lim.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/linux/limits.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/posix2_lim.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/xopen_lim.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/stdio_lim.h:

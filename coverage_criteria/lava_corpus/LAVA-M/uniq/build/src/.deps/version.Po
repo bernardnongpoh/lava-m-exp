@@ -1,0 +1,7 @@
+src/version.o: src/version.c \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h \
+ lib/config.h
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h:
+
+lib/config.h:

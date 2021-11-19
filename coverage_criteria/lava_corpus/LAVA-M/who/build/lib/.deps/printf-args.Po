@@ -1,0 +1,53 @@
+lib/printf-args.o: ../coreutils-8.24-lava-safe/lib/printf-args.c \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h \
+ lib/config.h ../coreutils-8.24-lava-safe/lib/printf-args.h lib/stddef.h \
+ /nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stddef.h \
+ lib/wchar.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/features.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/sys/cdefs.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wordsize.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs-32.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/wchar.h \
+ lib/stdio.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdio.h \
+ /nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stdarg.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wchar.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/xlocale.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wchar2.h
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h:
+
+lib/config.h:
+
+../coreutils-8.24-lava-safe/lib/printf-args.h:
+
+lib/stddef.h:
+
+/nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stddef.h:
+
+lib/wchar.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/features.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/sys/cdefs.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wordsize.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs-32.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/wchar.h:
+
+lib/stdio.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdio.h:
+
+/nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stdarg.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wchar.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/xlocale.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wchar2.h:

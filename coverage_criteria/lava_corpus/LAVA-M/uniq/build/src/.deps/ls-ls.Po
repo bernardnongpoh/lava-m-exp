@@ -1,0 +1,7 @@
+src/ls-ls.o: ../coreutils-8.24-lava-safe/src/ls-ls.c \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h \
+ ../coreutils-8.24-lava-safe/src/ls.h
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h:
+
+../coreutils-8.24-lava-safe/src/ls.h:

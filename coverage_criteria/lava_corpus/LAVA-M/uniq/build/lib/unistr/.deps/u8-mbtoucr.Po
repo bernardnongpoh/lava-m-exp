@@ -1,0 +1,48 @@
+lib/unistr/u8-mbtoucr.o: \
+ ../coreutils-8.24-lava-safe/lib/unistr/u8-mbtoucr.c \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h \
+ lib/config.h lib/unistr.h lib/unitypes.h \
+ /nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stdint.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdint.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/features.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/sys/cdefs.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wordsize.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs-32.h \
+ /nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wchar.h \
+ lib/unused-parameter.h \
+ /nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stdbool.h \
+ lib/stddef.h \
+ /nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stddef.h
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/unistr.h:
+
+lib/unitypes.h:
+
+/nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stdint.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/stdint.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/features.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/sys/cdefs.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wordsize.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/gnu/stubs-32.h:
+
+/nix/store/lx3rk2x5xxsvqi698rc5ldw6phkni8ds-glibc-2.23/include/bits/wchar.h:
+
+lib/unused-parameter.h:
+
+/nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stdbool.h:
+
+lib/stddef.h:
+
+/nix/store/zj38jkdy8wblcqgmgmrj7b95salmpd9c-gcc-4.9.3/lib/gcc/i686-pc-linux-gnu/4.9.3/include/stddef.h:
